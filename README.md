@@ -1,3 +1,6 @@
+# Deprecation Notice
+When we re-write the help documentation, I expect we will use markdown for the online/digital version and posibly use Pandoc to create a PDF or printable version. However, this project as it currently stands, is configured to load the markdown files from what is now called the legacy server. This is certainly not the direction we will want to continue. I'm leaving this repo in place for historical purposes and because of the wiki pages that are still useful. 
+
 # abc-docs
 ABC Software Documentation
 
