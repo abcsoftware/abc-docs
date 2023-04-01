@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T14:44:15.726Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="oAURDVSP6D7EOYoX0K__" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-01T20:20:03.077Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="mCn6sOhGxAekq3AyUObd" version="21.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Login Flow">
-    <mxGraphModel dx="1143" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="919" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -70,38 +70,38 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Login" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="435" y="300" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OmndRRgBPPfsdkt6SREK-50" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;shadow=0;labelBackgroundColor=none;strokeColor=default;strokeWidth=1;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=block;endFill=0;endSize=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
+        <mxCell id="OmndRRgBPPfsdkt6SREK-50" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;shadow=0;labelBackgroundColor=none;strokeColor=default;strokeWidth=1;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=block;endFill=0;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" edge="1" target="CYp54tLQXbq7ZRVXjHF1-0">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="560" as="targetPoint" />
+            <mxPoint x="100" y="560.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OmndRRgBPPfsdkt6SREK-54" value="On&lt;br&gt;Receive" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="OmndRRgBPPfsdkt6SREK-50" vertex="1" connectable="0">
+        <mxCell id="OmndRRgBPPfsdkt6SREK-54" value="On&lt;br&gt;Find" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="OmndRRgBPPfsdkt6SREK-50" vertex="1" connectable="0">
           <mxGeometry x="-0.9495" relative="1" as="geometry">
             <mxPoint y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OmndRRgBPPfsdkt6SREK-52" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;shadow=0;labelBackgroundColor=none;strokeColor=default;strokeWidth=1;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=block;endFill=0;endSize=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
+        <mxCell id="OmndRRgBPPfsdkt6SREK-52" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;shadow=0;labelBackgroundColor=none;strokeColor=default;strokeWidth=1;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=block;endFill=0;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" edge="1" target="CYp54tLQXbq7ZRVXjHF1-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="560" as="targetPoint" />
+            <mxPoint x="689.9999999999998" y="560.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OmndRRgBPPfsdkt6SREK-56" value="On&lt;br&gt;Adjust" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="OmndRRgBPPfsdkt6SREK-52" vertex="1" connectable="0">
+        <mxCell id="OmndRRgBPPfsdkt6SREK-56" value="On&lt;br&gt;Fill" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="OmndRRgBPPfsdkt6SREK-52" vertex="1" connectable="0">
           <mxGeometry x="0.3394" y="-2" relative="1" as="geometry">
-            <mxPoint y="-53" as="offset" />
+            <mxPoint x="2" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OmndRRgBPPfsdkt6SREK-53" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;labelBackgroundColor=none;strokeColor=default;strokeWidth=1;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=block;endFill=0;endSize=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
+        <mxCell id="OmndRRgBPPfsdkt6SREK-53" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;labelBackgroundColor=none;strokeColor=default;strokeWidth=1;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=block;endFill=0;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" edge="1" target="CYp54tLQXbq7ZRVXjHF1-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="560" as="targetPoint" />
+            <mxPoint x="410" y="560.0000000000002" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="660" y="530" />
-              <mxPoint x="380" y="530" />
+              <mxPoint x="660" y="520" />
+              <mxPoint x="410" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OmndRRgBPPfsdkt6SREK-55" value="On&lt;br&gt;Fulfill" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="OmndRRgBPPfsdkt6SREK-53" vertex="1" connectable="0">
+        <mxCell id="OmndRRgBPPfsdkt6SREK-55" value="On&lt;br&gt;Receive" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="OmndRRgBPPfsdkt6SREK-53" vertex="1" connectable="0">
           <mxGeometry x="-0.7291" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Tasks" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -167,17 +167,23 @@
         <mxCell id="OmndRRgBPPfsdkt6SREK-18" value="&lt;h1 style=&quot;&quot;&gt;ABC Inventory App&lt;/h1&gt;&lt;p&gt;Decision tree and code paths for various workflows&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="30" width="530" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="CbcE4rDU5Aihn-pGH2VM-1" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="560" width="100" height="80" as="geometry" />
+        <mxCell id="CYp54tLQXbq7ZRVXjHF1-0" value="Find Item" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="570" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CbcE4rDU5Aihn-pGH2VM-2" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="560" width="100" height="80" as="geometry" />
+        <mxCell id="CYp54tLQXbq7ZRVXjHF1-1" value="Receive Shipment" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="570" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CbcE4rDU5Aihn-pGH2VM-3" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="445" y="560" width="100" height="80" as="geometry" />
+        <mxCell id="CYp54tLQXbq7ZRVXjHF1-2" value="Fill Order" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="570" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CbcE4rDU5Aihn-pGH2VM-4" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="690" y="560" width="100" height="80" as="geometry" />
+        <mxCell id="CYp54tLQXbq7ZRVXjHF1-4" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Search for item or scan item with scan button.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Paginated data is available from the Items API.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;On tap or scan, show item page.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;On history, show 20 most recently loaded items from local storage.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="610" width="180" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="CYp54tLQXbq7ZRVXjHF1-5" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Search for shipment or scan PO barcode.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Paginated data is available from the ??? API&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;On tap or scan, show PO scans page.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;On history, show all scans for this PO from API.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="610" width="190" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="CYp54tLQXbq7ZRVXjHF1-6" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Search for shipment or scan Work Order barcode.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Paginated data is available from the ??? API&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;On tap or scan, show Work Order scans page.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;On history, show all scans for this Work Order from API.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="610" width="190" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
